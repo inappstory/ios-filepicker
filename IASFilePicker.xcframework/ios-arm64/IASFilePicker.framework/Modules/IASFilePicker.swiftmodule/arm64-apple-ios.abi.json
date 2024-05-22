@@ -1,0 +1,2343 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ImageIO",
+        "printedName": "ImageIO",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreServices",
+        "printedName": "CoreServices",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Function",
+        "name": "MD5",
+        "printedName": "MD5(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:13IASFilePicker3MD5yS2SF",
+        "mangledName": "$s13IASFilePicker3MD5yS2SF",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MobileCoreServices",
+        "printedName": "MobileCoreServices",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Var",
+        "name": "IASFilePickerVersion",
+        "printedName": "IASFilePickerVersion",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:13IASFilePicker0aB7VersionSSvp",
+        "mangledName": "$s13IASFilePicker0aB7VersionSSvp",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "accessors": [
+          {
+            "kind": "Accessor",
+            "name": "Get",
+            "printedName": "Get()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Accessor",
+            "usr": "s:13IASFilePicker0aB7VersionSSvg",
+            "mangledName": "$s13IASFilePicker0aB7VersionSSvg",
+            "moduleName": "IASFilePicker",
+            "accessorKind": "get"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "IASFilePicker",
+        "printedName": "IASFilePicker",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "IASFilePicker",
+                "printedName": "IASFilePicker.IASFilePicker",
+                "usr": "c:@M@IASFilePicker@objc(cs)IASFilePicker"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@IASFilePicker@objc(cs)IASFilePicker(im)init",
+            "mangledName": "$s13IASFilePickerAACABycfc",
+            "moduleName": "IASFilePicker",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "spi_group_names": [
+              "Picker"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "configFilePicker",
+            "printedName": "configFilePicker(with:options:and:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@IASFilePicker@objc(cs)IASFilePicker(cm)configFilePickerWith:options:and:",
+            "mangledName": "$s13IASFilePickerAAC010configFileB04with7options3andySS_10Foundation4DataVSbtFZ",
+            "moduleName": "IASFilePicker",
+            "static": true,
+            "objc_name": "configFilePickerWith:options:and:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "SPIAccessControl"
+            ],
+            "isFromExtension": true,
+            "spi_group_names": [
+              "Picker"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "showFilePicker",
+            "printedName": "showFilePicker(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@IASFilePicker@objc(cs)IASFilePicker(cm)showFilePickerFrom:",
+            "mangledName": "$s13IASFilePickerAAC08showFileB04fromySo16UIViewControllerC_tFZ",
+            "moduleName": "IASFilePicker",
+            "static": true,
+            "objc_name": "showFilePickerFrom:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "SPIAccessControl"
+            ],
+            "isFromExtension": true,
+            "spi_group_names": [
+              "Picker"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "assetCallbackHandler",
+            "printedName": "assetCallbackHandler(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.String) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@IASFilePicker@objc(cs)IASFilePicker(cm)assetCallbackHandler:",
+            "mangledName": "$s13IASFilePickerAAC20assetCallbackHandleryyySScFZ",
+            "moduleName": "IASFilePicker",
+            "static": true,
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "SPIAccessControl"
+            ],
+            "isFromExtension": true,
+            "spi_group_names": [
+              "Picker"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@IASFilePicker@objc(cs)IASFilePicker",
+        "mangledName": "$s13IASFilePickerAAC",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC",
+          "SPIAccessControl"
+        ],
+        "spi_group_names": [
+          "Picker"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "AssetsLibrary",
+        "printedName": "AssetsLibrary",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AssetType",
+        "printedName": "AssetType",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "image",
+            "printedName": "image",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(IASFilePicker.AssetType.Type) -> IASFilePicker.AssetType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AssetType",
+                    "printedName": "IASFilePicker.AssetType",
+                    "usr": "s:13IASFilePicker9AssetTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "IASFilePicker.AssetType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AssetType",
+                        "printedName": "IASFilePicker.AssetType",
+                        "usr": "s:13IASFilePicker9AssetTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13IASFilePicker9AssetTypeO5imageyA2CmF",
+            "mangledName": "$s13IASFilePicker9AssetTypeO5imageyA2CmF",
+            "moduleName": "IASFilePicker"
+          },
+          {
+            "kind": "Var",
+            "name": "video",
+            "printedName": "video",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(IASFilePicker.AssetType.Type) -> IASFilePicker.AssetType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AssetType",
+                    "printedName": "IASFilePicker.AssetType",
+                    "usr": "s:13IASFilePicker9AssetTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "IASFilePicker.AssetType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AssetType",
+                        "printedName": "IASFilePicker.AssetType",
+                        "usr": "s:13IASFilePicker9AssetTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13IASFilePicker9AssetTypeO5videoyA2CmF",
+            "mangledName": "$s13IASFilePicker9AssetTypeO5videoyA2CmF",
+            "moduleName": "IASFilePicker"
+          },
+          {
+            "kind": "Var",
+            "name": "mixed",
+            "printedName": "mixed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(IASFilePicker.AssetType.Type) -> IASFilePicker.AssetType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AssetType",
+                    "printedName": "IASFilePicker.AssetType",
+                    "usr": "s:13IASFilePicker9AssetTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "IASFilePicker.AssetType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AssetType",
+                        "printedName": "IASFilePicker.AssetType",
+                        "usr": "s:13IASFilePicker9AssetTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13IASFilePicker9AssetTypeO5mixedyA2CmF",
+            "mangledName": "$s13IASFilePicker9AssetTypeO5mixedyA2CmF",
+            "moduleName": "IASFilePicker"
+          },
+          {
+            "kind": "Function",
+            "name": "assetTypeBy",
+            "printedName": "assetTypeBy(config:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AssetType",
+                "printedName": "IASFilePicker.AssetType",
+                "usr": "s:13IASFilePicker9AssetTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13IASFilePicker9AssetTypeO05assetD2By6configACSS_tFZ",
+            "mangledName": "$s13IASFilePicker9AssetTypeO05assetD2By6configACSS_tFZ",
+            "moduleName": "IASFilePicker",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "IASFilePicker.AssetType?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AssetType",
+                    "printedName": "IASFilePicker.AssetType",
+                    "usr": "s:13IASFilePicker9AssetTypeO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13IASFilePicker9AssetTypeO8rawValueACSgSS_tcfc",
+            "mangledName": "$s13IASFilePicker9AssetTypeO8rawValueACSgSS_tcfc",
+            "moduleName": "IASFilePicker",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13IASFilePicker9AssetTypeO8rawValueSSvp",
+            "mangledName": "$s13IASFilePicker9AssetTypeO8rawValueSSvp",
+            "moduleName": "IASFilePicker",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13IASFilePicker9AssetTypeO8rawValueSSvg",
+                "mangledName": "$s13IASFilePicker9AssetTypeO8rawValueSSvg",
+                "moduleName": "IASFilePicker",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:13IASFilePicker9AssetTypeO",
+        "mangledName": "$s13IASFilePicker9AssetTypeO",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AssetsPicker",
+        "printedName": "AssetsPicker",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "assetType",
+            "printedName": "assetType",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AssetType",
+                "printedName": "IASFilePicker.AssetType",
+                "usr": "s:13IASFilePicker9AssetTypeO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13IASFilePicker06AssetsB0C9assetTypeAA05AssetE0Ovp",
+            "mangledName": "$s13IASFilePicker06AssetsB0C9assetTypeAA05AssetE0Ovp",
+            "moduleName": "IASFilePicker",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AssetType",
+                    "printedName": "IASFilePicker.AssetType",
+                    "usr": "s:13IASFilePicker9AssetTypeO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13IASFilePicker06AssetsB0C9assetTypeAA05AssetE0Ovg",
+                "mangledName": "$s13IASFilePicker06AssetsB0C9assetTypeAA05AssetE0Ovg",
+                "moduleName": "IASFilePicker",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AssetType",
+                    "printedName": "IASFilePicker.AssetType",
+                    "usr": "s:13IASFilePicker9AssetTypeO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13IASFilePicker06AssetsB0C9assetTypeAA05AssetE0Ovs",
+                "mangledName": "$s13IASFilePicker06AssetsB0C9assetTypeAA05AssetE0Ovs",
+                "moduleName": "IASFilePicker",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13IASFilePicker06AssetsB0C9assetTypeAA05AssetE0OvM",
+                "mangledName": "$s13IASFilePicker06AssetsB0C9assetTypeAA05AssetE0OvM",
+                "moduleName": "IASFilePicker",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "acceptTypes",
+            "printedName": "acceptTypes",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13IASFilePicker06AssetsB0C11acceptTypesSaySSGvp",
+            "mangledName": "$s13IASFilePicker06AssetsB0C11acceptTypesSaySSGvp",
+            "moduleName": "IASFilePicker",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13IASFilePicker06AssetsB0C11acceptTypesSaySSGvg",
+                "mangledName": "$s13IASFilePicker06AssetsB0C11acceptTypesSaySSGvg",
+                "moduleName": "IASFilePicker",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13IASFilePicker06AssetsB0C11acceptTypesSaySSGvs",
+                "mangledName": "$s13IASFilePicker06AssetsB0C11acceptTypesSaySSGvs",
+                "moduleName": "IASFilePicker",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13IASFilePicker06AssetsB0C11acceptTypesSaySSGvM",
+                "mangledName": "$s13IASFilePicker06AssetsB0C11acceptTypesSaySSGvM",
+                "moduleName": "IASFilePicker",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "multiple",
+            "printedName": "multiple",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13IASFilePicker06AssetsB0C8multipleSbvp",
+            "mangledName": "$s13IASFilePicker06AssetsB0C8multipleSbvp",
+            "moduleName": "IASFilePicker",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13IASFilePicker06AssetsB0C8multipleSbvg",
+                "mangledName": "$s13IASFilePicker06AssetsB0C8multipleSbvg",
+                "moduleName": "IASFilePicker",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13IASFilePicker06AssetsB0C8multipleSbvs",
+                "mangledName": "$s13IASFilePicker06AssetsB0C8multipleSbvs",
+                "moduleName": "IASFilePicker",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13IASFilePicker06AssetsB0C8multipleSbvM",
+                "mangledName": "$s13IASFilePicker06AssetsB0C8multipleSbvM",
+                "moduleName": "IASFilePicker",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "preferredStatusBarStyle",
+            "printedName": "preferredStatusBarStyle",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIStatusBarStyle",
+                "printedName": "UIKit.UIStatusBarStyle",
+                "usr": "c:@E@UIStatusBarStyle"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@IASFilePicker@objc(cs)AssetsPicker(py)preferredStatusBarStyle",
+            "mangledName": "$s13IASFilePicker06AssetsB0C23preferredStatusBarStyleSo08UIStatusfG0Vvp",
+            "moduleName": "IASFilePicker",
+            "overriding": true,
+            "objc_name": "preferredStatusBarStyle",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIStatusBarStyle",
+                    "printedName": "UIKit.UIStatusBarStyle",
+                    "usr": "c:@E@UIStatusBarStyle"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@IASFilePicker@objc(cs)AssetsPicker(im)preferredStatusBarStyle",
+                "mangledName": "$s13IASFilePicker06AssetsB0C23preferredStatusBarStyleSo08UIStatusfG0Vvg",
+                "moduleName": "IASFilePicker",
+                "overriding": true,
+                "objc_name": "preferredStatusBarStyle",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@IASFilePicker@objc(cs)AssetsPicker(im)viewDidLoad",
+            "mangledName": "$s13IASFilePicker06AssetsB0C11viewDidLoadyyF",
+            "moduleName": "IASFilePicker",
+            "overriding": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewWillAppear",
+            "printedName": "viewWillAppear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@IASFilePicker@objc(cs)AssetsPicker(im)viewWillAppear:",
+            "mangledName": "$s13IASFilePicker06AssetsB0C14viewWillAppearyySbF",
+            "moduleName": "IASFilePicker",
+            "overriding": true,
+            "objc_name": "viewWillAppear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewWillLayoutSubviews",
+            "printedName": "viewWillLayoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@IASFilePicker@objc(cs)AssetsPicker(im)viewWillLayoutSubviews",
+            "mangledName": "$s13IASFilePicker06AssetsB0C22viewWillLayoutSubviewsyyF",
+            "moduleName": "IASFilePicker",
+            "overriding": true,
+            "objc_name": "viewWillLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AssetsPicker",
+                "printedName": "IASFilePicker.AssetsPicker",
+                "usr": "c:@M@IASFilePicker@objc(cs)AssetsPicker"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@IASFilePicker@objc(cs)AssetsPicker(im)initWithNibName:bundle:",
+            "mangledName": "$s13IASFilePicker06AssetsB0C7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "IASFilePicker",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "IASFilePicker.AssetsPicker?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AssetsPicker",
+                    "printedName": "IASFilePicker.AssetsPicker",
+                    "usr": "c:@M@IASFilePicker@objc(cs)AssetsPicker"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@IASFilePicker@objc(cs)AssetsPicker(im)initWithCoder:",
+            "mangledName": "$s13IASFilePicker06AssetsB0C5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "IASFilePicker",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:numberOfItemsInSection:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@IASFilePicker@objc(cs)AssetsPicker(im)collectionView:numberOfItemsInSection:",
+            "mangledName": "$s13IASFilePicker06AssetsB0C14collectionView_22numberOfItemsInSectionSiSo012UICollectionE0C_SitF",
+            "moduleName": "IASFilePicker",
+            "objc_name": "collectionView:numberOfItemsInSection:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:cellForItemAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionViewCell",
+                "printedName": "UIKit.UICollectionViewCell",
+                "usr": "c:objc(cs)UICollectionViewCell"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@IASFilePicker@objc(cs)AssetsPicker(im)collectionView:cellForItemAtIndexPath:",
+            "mangledName": "$s13IASFilePicker06AssetsB0C14collectionView_13cellForItemAtSo012UICollectionE4CellCSo0jE0C_10Foundation9IndexPathVtF",
+            "moduleName": "IASFilePicker",
+            "objc_name": "collectionView:cellForItemAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:didSelectItemAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@IASFilePicker@objc(cs)AssetsPicker(im)collectionView:didSelectItemAtIndexPath:",
+            "mangledName": "$s13IASFilePicker06AssetsB0C14collectionView_15didSelectItemAtySo012UICollectionE0C_10Foundation9IndexPathVtF",
+            "moduleName": "IASFilePicker",
+            "objc_name": "collectionView:didSelectItemAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:layout:sizeForItemAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGSize",
+                "printedName": "CoreFoundation.CGSize",
+                "usr": "c:@S@CGSize"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionViewLayout",
+                "printedName": "UIKit.UICollectionViewLayout",
+                "usr": "c:objc(cs)UICollectionViewLayout"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@IASFilePicker@objc(cs)AssetsPicker(im)collectionView:layout:sizeForItemAtIndexPath:",
+            "mangledName": "$s13IASFilePicker06AssetsB0C14collectionView_6layout13sizeForItemAtSo6CGSizeVSo012UICollectionE0C_So0lE6LayoutC10Foundation9IndexPathVtF",
+            "moduleName": "IASFilePicker",
+            "objc_name": "collectionView:layout:sizeForItemAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:layout:insetForSectionAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIEdgeInsets",
+                "printedName": "UIKit.UIEdgeInsets",
+                "usr": "c:@S@UIEdgeInsets"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionViewLayout",
+                "printedName": "UIKit.UICollectionViewLayout",
+                "usr": "c:objc(cs)UICollectionViewLayout"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@IASFilePicker@objc(cs)AssetsPicker(im)collectionView:layout:insetForSectionAtIndex:",
+            "mangledName": "$s13IASFilePicker06AssetsB0C14collectionView_6layout17insetForSectionAtSo12UIEdgeInsetsVSo012UICollectionE0C_So0mE6LayoutCSitF",
+            "moduleName": "IASFilePicker",
+            "objc_name": "collectionView:layout:insetForSectionAtIndex:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:layout:minimumLineSpacingForSectionAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionViewLayout",
+                "printedName": "UIKit.UICollectionViewLayout",
+                "usr": "c:objc(cs)UICollectionViewLayout"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@IASFilePicker@objc(cs)AssetsPicker(im)collectionView:layout:minimumLineSpacingForSectionAtIndex:",
+            "mangledName": "$s13IASFilePicker06AssetsB0C14collectionView_6layout30minimumLineSpacingForSectionAt12CoreGraphics7CGFloatVSo012UICollectionE0C_So0pE6LayoutCSitF",
+            "moduleName": "IASFilePicker",
+            "objc_name": "collectionView:layout:minimumLineSpacingForSectionAtIndex:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:layout:minimumInteritemSpacingForSectionAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionViewLayout",
+                "printedName": "UIKit.UICollectionViewLayout",
+                "usr": "c:objc(cs)UICollectionViewLayout"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@IASFilePicker@objc(cs)AssetsPicker(im)collectionView:layout:minimumInteritemSpacingForSectionAtIndex:",
+            "mangledName": "$s13IASFilePicker06AssetsB0C14collectionView_6layout35minimumInteritemSpacingForSectionAt12CoreGraphics7CGFloatVSo012UICollectionE0C_So0pE6LayoutCSitF",
+            "moduleName": "IASFilePicker",
+            "objc_name": "collectionView:layout:minimumInteritemSpacingForSectionAtIndex:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@IASFilePicker@objc(cs)AssetsPicker",
+        "mangledName": "$s13IASFilePicker06AssetsB0C",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "PhotosUI",
+        "printedName": "PhotosUI",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "MobileCoreServices",
+        "printedName": "MobileCoreServices",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      },
+      {
+        "kind": "Import",
+        "name": "UniformTypeIdentifiers",
+        "printedName": "UniformTypeIdentifiers",
+        "declKind": "Import",
+        "moduleName": "IASFilePicker"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/VideoPlayer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 813,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/VideoPlayer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 896,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/VideoPlayer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 982,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/VideoPlayer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1020,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/VideoPlayer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1255,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/VideoPlayer.swift",
+      "kind": "FloatLiteral",
+      "offset": 1272,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/VideoPlayer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1149,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/VideoPlayer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1440,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/VideoPlayer.swift",
+      "kind": "FloatLiteral",
+      "offset": 1453,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/VideoPlayer.swift",
+      "kind": "FloatLiteral",
+      "offset": 1334,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/VideoPlayer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1592,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/VideoPlayer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1620,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/NibViews\/AssetCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 513,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Controllers\/PhotoPreviewController.swift",
+      "kind": "Array",
+      "offset": 861,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Controllers\/PhotoPreviewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 955,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Controllers\/PhotoPreviewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1004,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/MD5\/MD5.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8383,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/IASFilePicker.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1170,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/IASFilePicker.swift",
+      "kind": "StringLiteral",
+      "offset": 1206,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/IASFilePicker.swift",
+      "kind": "StringLiteral",
+      "offset": 1493,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Controllers\/CameraController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 606,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Controllers\/CameraController.swift",
+      "kind": "StringLiteral",
+      "offset": 766,
+      "length": 6,
+      "value": "\"jpeg\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Controllers\/CameraController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1000,
+      "length": 4,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Controllers\/CameraController.swift",
+      "kind": "StringLiteral",
+      "offset": 21081,
+      "length": 12,
+      "value": "\"IASFilePicker.PaddingLabel\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/Helpers\/AtomicArray.swift",
+      "kind": "IntegerLiteral",
+      "offset": 604,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 149,
+      "length": 23,
+      "value": "\"dialog_button_not_now\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 215,
+      "length": 24,
+      "value": "\"dialog_button_settings\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 282,
+      "length": 26,
+      "value": "\"button_no_gallery_access\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 351,
+      "length": 35,
+      "value": "\"dialog_storage_permission_warning\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 429,
+      "length": 34,
+      "value": "\"dialog_photo_permissions_warning\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 506,
+      "length": 34,
+      "value": "\"dialog_video_permissions_warning\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 583,
+      "length": 31,
+      "value": "\"warns_file_picker_files_limit\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 657,
+      "length": 34,
+      "value": "\"title_storage_permission_warning\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 734,
+      "length": 26,
+      "value": "\"title_file_limit_warning\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 803,
+      "length": 32,
+      "value": "\"title_media_format_unsupported\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 878,
+      "length": 32,
+      "value": "\"title_video_max_duration_limit\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 953,
+      "length": 28,
+      "value": "\"title_video_max_size_limit\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1024,
+      "length": 28,
+      "value": "\"title_image_max_size_limit\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1095,
+      "length": 21,
+      "value": "\"title_camera_button\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1160,
+      "length": 38,
+      "value": "\"ios_storage_permission_warning_label\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1241,
+      "length": 40,
+      "value": "\"ios_storage_permission_warning_message\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1324,
+      "length": 40,
+      "value": "\"ios_recording_permission_warning_label\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1407,
+      "length": 42,
+      "value": "\"ios_recording_permission_warning_message\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1493,
+      "length": 38,
+      "value": "\"ios_gallery_permission_warning_label\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1574,
+      "length": 46,
+      "value": "\"ios_gallery_permission_warning_manage_button\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1663,
+      "length": 50,
+      "value": "\"ios_gallery_permission_select_other_files_button\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1756,
+      "length": 45,
+      "value": "\"ios_gallery_permission_open_settings_button\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1841,
+      "length": 31,
+      "value": "\"ios_camera_limits_orientation\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1911,
+      "length": 32,
+      "value": "\"ios_camera_limits_multitasking\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1982,
+      "length": 23,
+      "value": "\"ios_camera_limits_all\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/LocalizeManager.swift",
+      "kind": "Dictionary",
+      "offset": 2281,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Controllers\/VideoPreviewController.swift",
+      "kind": "Array",
+      "offset": 582,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Controllers\/VideoPreviewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 676,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Controllers\/VideoPreviewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1340,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/Camera.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1690,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/Camera.swift",
+      "kind": "StringLiteral",
+      "offset": 1728,
+      "length": 9,
+      "value": "\"default\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Views\/Camera.swift",
+      "kind": "StringLiteral",
+      "offset": 1795,
+      "length": 15,
+      "value": "\"session queue\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/AssetsPicker.swift",
+      "kind": "Array",
+      "offset": 1457,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/AssetsPicker.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1497,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/AssetsPicker.swift",
+      "kind": "Array",
+      "offset": 1812,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/AssetsPicker.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3542,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/AssetsManager.swift",
+      "kind": "StringLiteral",
+      "offset": 549,
+      "length": 19,
+      "value": "\"UpdateAssetStatus\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/AssetsManager.swift",
+      "kind": "StringLiteral",
+      "offset": 683,
+      "length": 9,
+      "value": "\"assetID\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/AssetsManager.swift",
+      "kind": "StringLiteral",
+      "offset": 720,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/AssetsManager.swift",
+      "kind": "StringLiteral",
+      "offset": 779,
+      "length": 8,
+      "value": "\"status\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/AssetsManager.swift",
+      "kind": "Array",
+      "offset": 1516,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/AssetsManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1733,
+      "length": 22,
+      "value": "\"UpdateSelectedAssets\""
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/AssetsManager.swift",
+      "kind": "Array",
+      "offset": 1641,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/AssetsManager.swift",
+      "kind": "Array",
+      "offset": 1843,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/workspace\/repository\/IASFilePicker\/AssetsPicker\/Managers\/AssetsManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1992,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

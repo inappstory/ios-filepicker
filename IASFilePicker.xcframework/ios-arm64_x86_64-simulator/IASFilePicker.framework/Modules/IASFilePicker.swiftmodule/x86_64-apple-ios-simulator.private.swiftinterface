@@ -1,0 +1,74 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name IASFilePicker
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import AVKit
+import AssetsLibrary
+import CoreServices
+import Foundation
+@_exported import IASFilePicker
+import ImageIO
+import MobileCoreServices
+import Photos
+import PhotosUI
+import Swift
+import UIKit
+import UniformTypeIdentifiers
+import _Concurrency
+import _StringProcessing
+public func MD5(_ input: Swift.String) -> Swift.String
+public var IASFilePickerVersion: Swift.String {
+  get
+}
+@_spi(Picker) public typealias AssetCallBackHandler = (Swift.String) -> Swift.Void
+@_spi(Picker) @_inheritsConvenienceInitializers @objc public class IASFilePicker : ObjectiveC.NSObject {
+  @_spi(Picker) @objc override dynamic public init()
+  @_spi(Picker) @objc deinit
+}
+@_spi(Picker) extension IASFilePicker.IASFilePicker {
+  @_spi(Picker) @objc dynamic public class func configFilePicker(with api: Swift.String = "", options optionsData: Foundation.Data, and logging: Swift.Bool)
+  @_spi(Picker) @objc dynamic public class func showFilePicker(from controller: UIKit.UIViewController)
+  @_spi(Picker) @objc dynamic public class func assetCallbackHandler(_ handler: @escaping IASFilePicker.AssetCallBackHandler)
+}
+public enum AssetType : Swift.String {
+  case image
+  case video
+  case mixed
+  public static func assetTypeBy(config: Swift.String) -> IASFilePicker.AssetType
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class AssetsPicker : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) public var assetType: IASFilePicker.AssetType
+  @_Concurrency.MainActor(unsafe) public var acceptTypes: [Swift.String]
+  @_Concurrency.MainActor(unsafe) public var multiple: Swift.Bool
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public var preferredStatusBarStyle: UIKit.UIStatusBarStyle {
+    @objc get
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillLayoutSubviews()
+  @objc deinit
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+extension IASFilePicker.AssetsPicker : UIKit.UICollectionViewDataSource {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, numberOfItemsInSection section: Swift.Int) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, cellForItemAt indexPath: Foundation.IndexPath) -> UIKit.UICollectionViewCell
+}
+extension IASFilePicker.AssetsPicker : UIKit.UICollectionViewDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, didSelectItemAt indexPath: Foundation.IndexPath)
+}
+extension IASFilePicker.AssetsPicker : UIKit.UICollectionViewDelegateFlowLayout {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, sizeForItemAt indexPath: Foundation.IndexPath) -> CoreFoundation.CGSize
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, insetForSectionAt section: Swift.Int) -> UIKit.UIEdgeInsets
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, minimumLineSpacingForSectionAt section: Swift.Int) -> CoreFoundation.CGFloat
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, minimumInteritemSpacingForSectionAt section: Swift.Int) -> CoreFoundation.CGFloat
+}
+extension IASFilePicker.AssetType : Swift.Equatable {}
+extension IASFilePicker.AssetType : Swift.Hashable {}
+extension IASFilePicker.AssetType : Swift.RawRepresentable {}

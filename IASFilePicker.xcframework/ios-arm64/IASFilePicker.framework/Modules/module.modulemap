@@ -1,0 +1,11 @@
+framework module IASFilePicker {
+  umbrella header "IASFilePicker.h"
+
+  export *
+  module * { export * }
+}
+
+module IASFilePicker.Swift {
+  header "IASFilePicker-Swift.h"
+  requires objc
+}
