@@ -1,6 +1,6 @@
 # IASFilePicker
 
-A library for embedding stories into an application with customization.
+Library for connecting FilePicker for games in the main SDK InAppStory
 
 | IASFilePicker version | Build version | iOS version |
 | --------------------- | ------------- | ----------- |
