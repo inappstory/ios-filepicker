@@ -1,7 +1,7 @@
 framework module IASFilePicker {
   umbrella header "IASFilePicker.h"
-
   export *
+
   module * { export * }
 }
 

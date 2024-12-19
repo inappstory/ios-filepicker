@@ -1,11 +1,11 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
-// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name IASFilePicker
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name IASFilePicker
 import AVFoundation
 import AVKit
 import AssetsLibrary
 import CoreServices
+import DeveloperToolsSupport
 import Foundation
 @_exported import IASFilePicker
 import ImageIO
@@ -13,16 +13,20 @@ import MobileCoreServices
 import Photos
 import PhotosUI
 import Swift
+import SwiftUI
 import UIKit
 import UniformTypeIdentifiers
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
 public func MD5(_ input: Swift.String) -> Swift.String
 public var IASFilePickerVersion: Swift.String {
   get
 }
 @_spi(Picker) public typealias AssetCallBackHandler = (Swift.String) -> Swift.Void
 @_spi(Picker) @_inheritsConvenienceInitializers @objc public class IASFilePicker : ObjectiveC.NSObject {
+  @_spi(Picker) public static let VersionSDK: Swift.String
+  @_spi(Picker) public static let BuildSDK: Swift.String
   @_spi(Picker) @objc override dynamic public init()
   @_spi(Picker) @objc deinit
 }
